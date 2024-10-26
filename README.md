@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm a passionate developer and freelancer currentl
 
 🛠️ Languages and Tools
 Programming Languages: CSS, HTML, JavaScript, Java, C/C++
+Tools: Vscode,Canva,Postman API 
 
 🎓 Certifications and Training
 Responsive Web Design – freeCodeCamp
